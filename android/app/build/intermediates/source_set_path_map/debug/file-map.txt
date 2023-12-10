@@ -29,3 +29,4 @@ com.londonleft.app-packageDebugResources-27 /Users/danieldefranca/Desktop/London
 com.londonleft.app-merged_res-28 /Users/danieldefranca/Desktop/LondonLeaf/android/app/build/intermediates/merged_res/debug
 com.londonleft.app-debug-29 /Users/danieldefranca/Desktop/LondonLeaf/android/app/src/debug/res
 com.londonleft.app-main-30 /Users/danieldefranca/Desktop/LondonLeaf/android/app/src/main/res
+com.londonleft.app-packaged_res-31 /Users/danieldefranca/Desktop/LondonLeaf/node_modules/react-native-webview/android/build/intermediates/packaged_res/debug
